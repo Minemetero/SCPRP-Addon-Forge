@@ -17,6 +17,7 @@ Steps to reproduce the behavior.
 What you expected to happen.
 
 **Environment**
+
 - Server date/version
 - Any unusual settings
 

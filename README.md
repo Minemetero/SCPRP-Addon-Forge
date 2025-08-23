@@ -5,12 +5,13 @@ A collection of **ready-to-use server addons** for SCP:RP.
 ---
 
 ## 🚀 How to Install
+
 1. Browse `addons/` and open the addon you want.
 2. Copy the contents of `addon.lua`.
 3. In your server’s **Server Addons** panel:
-   - Create a new addon
-   - Paste the script
-   - Select **Continuous** if it loops
+    - Create a new addon
+    - Paste the script
+    - Select **Continuous** if it loops
 4. Follow any setup notes in the addon’s `README.md`.
 
 ---
@@ -26,6 +27,7 @@ but **use is at your own risk**.
 ---
 
 ## 📂 Repository Structure
+
 ```
 addons/
   <username>/
@@ -39,6 +41,7 @@ docs/
 ---
 
 ## 🙌 Contributing
+
 See [CONTRIBUTING.md](CONTRIBUTING.md). We keep rules light: folder layout + header block, that’s it.
 
 ---

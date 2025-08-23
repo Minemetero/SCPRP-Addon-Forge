@@ -1,6 +1,7 @@
 # Security Policy
 
 ## Reporting Issues
+
 If you discover a security concern, please first determine whether it is:
 
 - **A vulnerability in the SCP:RP game itself**  
@@ -16,10 +17,11 @@ We only take responsibility for issues that originate from the **addons in this 
 ---
 
 ## Guidelines for Contributors
-- Do **not** commit real secrets (webhooks, API keys). Always use placeholders.  
-- Be careful with `http(...)` usage — avoid exposing user data, and respect rate limits.  
-- Avoid infinite loops without `task.wait()` to prevent server lockups.  
-- Test addons privately before submitting them.  
+
+- Do **not** commit real secrets (webhooks, API keys). Always use placeholders.
+- Be careful with `http(...)` usage — avoid exposing user data, and respect rate limits.
+- Avoid infinite loops without `task.wait()` to prevent server lockups.
+- Test addons privately before submitting them.
 
 ---
 

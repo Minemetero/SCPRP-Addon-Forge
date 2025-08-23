@@ -1,6 +1,7 @@
 # Contributing
 
 ## Folder Layout (required)
+
 ```
 addons/<your-username>/<addon-name>/
   README.md
@@ -8,7 +9,9 @@ addons/<your-username>/<addon-name>/
 ```
 
 ## Header Block (required)
+
 Every `addon.lua` must start with:
+
 ```lua
 ----------------------------------------------------------------------
 -- <Name>
@@ -23,7 +26,9 @@ Every `addon.lua` must start with:
 ```
 
 ## Comments (recommended)
+
 Use section dividers to make scripts readable:
+
 ```lua
 ------------------------------------------------------
 -- Events
@@ -31,13 +36,16 @@ Use section dividers to make scripts readable:
 ```
 
 ## Commits (recommended)
+
 Use short, descriptive commits with a tag prefix:
+
 - feat: …
 - fix: …
 - docs: …
 - chore: …
 
 ### PR Checklist
+
 - [ ] Files live under `addons/<username>/<addon-name>/`
 - [ ] `README.md` + `addon.lua` both present
 - [ ] Proper header block included

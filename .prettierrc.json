@@ -1,0 +1,32 @@
+{
+    "tabWidth": 4,
+    "useTabs": false,
+    "printWidth": 100,
+    "singleQuote": false,
+    "overrides": [
+        {
+            "files": "*.md",
+            "options": {
+                "proseWrap": "preserve"
+            }
+        },
+        {
+            "files": "*.yml",
+            "options": {
+                "proseWrap": "preserve"
+            }
+        },
+        {
+            "files": "*.yaml",
+            "options": {
+                "proseWrap": "preserve"
+            }
+        },
+        {
+            "files": "*.json",
+            "options": {
+                "proseWrap": "preserve"
+            }
+        }
+    ]
+}

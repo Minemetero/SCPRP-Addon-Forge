@@ -1,3 +1,4 @@
+--------------------------------------------------------------------------------------------------------------------
 -- AntiCheat Addon (Advanced)
 -- Author: epic_y
 -- Version: 1.1.2
@@ -9,11 +10,17 @@
 -- Max Walkspeed to see if any speed hacks or so.
 
 
--- WARNING THIS SCRIPT HAS NOT BEEN TESTED YET!! (for obvious reason, mostly no exploiters to test it lol)
 
+-- NOTES:
+--how to use
+-- edit the 3 locals below (if you want to)
+-- its ready and set to use you just need to paste in
+
+-- WARNING THIS SCRIPT HAS NOT BEEN TESTED YET!! (for obvious reason, mostly no exploiters to test it lol)
+----------------------------------------------------------------------------------------------------------------------
 
 local NOCLIP_RESET_SECONDS = 30 -- time to reset lagback (to prevent aagun)
-local ANTICHEAT_CHECK_INTERVAL = 0.5 -- how much should it check per second (prevent ratelimiting/bugging)
+local ANTICHEAT_CHECK_INTERVAL = 0.2 -- how much should it check per second (prevent ratelimiting/bugging)
 local MAX_WALK_SPEED = 45 --standard walkspeed/run speed in scp rp
 
 

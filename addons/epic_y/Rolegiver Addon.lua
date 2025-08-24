@@ -1,3 +1,4 @@
+-------------------------------------------------------------------------------------------------------------
 -- Role Giver Addon
 
 -- Author: epic_y
@@ -7,11 +8,12 @@
 -- Max Team Limit 
 -- Cooldown Mechanism (for the player)
 
+-- NOTES:
 
 -- how to use
 -- edit the 4 locals below this comment.
 -- make sure to have a interactable named and name it exactly in the part name after parenthesis.
-
+---------------------------------------------------------------------------------------------------------------
 local COOLDOWN_TIME = 30 -- Cooldown for per role cuz we dont want bozos spamming
 local TARGET_TEAM_LIMIT = "inf" -- inf is for any amount, any number is for a specific amount.
 local PART_NAME = "REPLACE" -- change this to ur part name for the interactable to work.

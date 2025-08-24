@@ -1,7 +1,11 @@
+
+---------------------------------------------------------------------------------------------------
 -- Pickpocket Addon 
 -- Author: epic_y
 -- Version: 1.0.1
-
+--Features
+--pickpocketting mechanic
+--limits to one single time (prisoner or smth)
 
 
 
